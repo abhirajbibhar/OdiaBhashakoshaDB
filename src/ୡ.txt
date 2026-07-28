@@ -1,1 +1,1 @@
-1086,Lu,<entry> <p><hw><or><b>ୡ</b></or>—</hw> <tr>Ḷū</tr> <gramGrp><p><or>ଦୀର୍ଘ ୡ</or>—</p> <sense><p><or>ସଂସ୍କୃତ ବର୍ଣ୍ଣମାଳାର ଦଶମ ସ୍ବର ଏବଂ ହ୍ରସ୍ବ ଌ ର ଦୀର୍ଘ ଆକାର (ଓଡ଼ିଶାରେ ଏ ଅକ୍ଷର ଚଳେ ନାହିଁ)</or>— The long Ḷū.</p></sense></gramGrp> </entry>
+Lu,<entry> <p><hw><or><b>ୡ</b></or>—</hw> <tr>Ḷū</tr> <gramGrp><p><or>ଦୀର୍ଘ ୡ</or>—</p> <sense><p><or>ସଂସ୍କୃତ ବର୍ଣ୍ଣମାଳାର ଦଶମ ସ୍ବର ଏବଂ ହ୍ରସ୍ବ ଌ ର ଦୀର୍ଘ ଆକାର (ଓଡ଼ିଶାରେ ଏ ଅକ୍ଷର ଚଳେ ନାହିଁ)</or>— The long Ḷū.</p></sense></gramGrp> </entry>
